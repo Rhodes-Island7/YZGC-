@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra-network equilibrium traffic", "Dijkstra-network equilibrium traffic\Dijkstra-network equilibrium traffic.vcxproj", "{175EC9F1-6719-441F-9402-08FF361F80BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{175EC9F1-6719-441F-9402-08FF361F80BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{175EC9F1-6719-441F-9402-08FF361F80BA}.Debug|Win32.Build.0 = Debug|Win32
+		{175EC9F1-6719-441F-9402-08FF361F80BA}.Release|Win32.ActiveCfg = Release|Win32
+		{175EC9F1-6719-441F-9402-08FF361F80BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/4/25 19:51:06。
+     1>项目“H:\帮他人研究的东西\迪杰斯特拉-网络均衡流量\代码\Dijkstra-network equilibrium traffic\Dijkstra-network equilibrium traffic\Dijkstra-network equilibrium traffic.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /D _CRT_SECURE_NO_WARNINGS "Dijkstra-network equilibrium traffic.cpp"
+         Dijkstra-network equilibrium traffic.cpp
+     1>h:\帮他人研究的东西\迪杰斯特拉-网络均衡流量\代码\dijkstra-network equilibrium traffic\dijkstra-network equilibrium traffic\dijkstra-network equilibrium traffic.cpp(140): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>h:\帮他人研究的东西\迪杰斯特拉-网络均衡流量\代码\dijkstra-network equilibrium traffic\dijkstra-network equilibrium traffic\dijkstra-network equilibrium traffic.cpp(141): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>h:\帮他人研究的东西\迪杰斯特拉-网络均衡流量\代码\dijkstra-network equilibrium traffic\dijkstra-network equilibrium traffic\dijkstra-network equilibrium traffic.cpp(411): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\帮他人研究的东西\迪杰斯特拉-网络均衡流量\代码\Dijkstra-network equilibrium traffic\Debug\Dijkstra-network equilibrium traffic.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\帮他人研究的东西\迪杰斯特拉-网络均衡流量\代码\Dijkstra-network equilibrium traffic\Debug\Dijkstra-network equilibrium traffic.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\帮他人研究的东西\迪杰斯特拉-网络均衡流量\代码\Dijkstra-network equilibrium traffic\Debug\Dijkstra-network equilibrium traffic.lib" /MACHINE:X86 "Debug\Dijkstra-network equilibrium traffic.obj"
+         Dijkstra-network equilibrium traffic.vcxproj -> H:\帮他人研究的东西\迪杰斯特拉-网络均衡流量\代码\Dijkstra-network equilibrium traffic\Debug\Dijkstra-network equilibrium traffic.exe
+     1>已完成生成项目“H:\帮他人研究的东西\迪杰斯特拉-网络均衡流量\代码\Dijkstra-network equilibrium traffic\Dijkstra-network equilibrium traffic\Dijkstra-network equilibrium traffic.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.43
