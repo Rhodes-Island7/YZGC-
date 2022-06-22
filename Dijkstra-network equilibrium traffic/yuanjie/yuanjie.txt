@@ -3,21 +3,4 @@
 
 雪花雪花开在阳光下
 
-<<<<<<< HEAD
 招牌美式
-<<<<<<< HEAD
-
-招牌中式
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-在故乡 在远方 都一样闪亮
-=======
-在故乡 在远方 都一样闪亮
->>>>>>> parent of 8b31a38... feat: wip
-=======
-在故乡 在远方 都一样闪亮
->>>>>>> parent of 8b31a38... feat: wip
->>>>>>> parent of fccd128... fix: yuanjie
-=======
->>>>>>> parent of f75cdbf... jieyuanlast
